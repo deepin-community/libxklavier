@@ -1,0 +1,5 @@
+For the latest upstream release there exists no official tarball at
+https://download.gnome.org/sources/libxklavier/. So the orig.tar.xz was
+created using git archive based on the latest (signed) tag:
+
+  git archive --format=tar --prefix=libxklavier-${VER}/ libxklavier-${VER} | xz > libxklavier_${VER}.orig.tar.xz
