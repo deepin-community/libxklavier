@@ -1,9 +1,3 @@
-libxklavier (5.4-5) unstable; urgency=medium
-
-  * Rebuild with LTO enabled (dpkg vendor feature optimize/lto).
-
- -- tunaichao <tunaichao@uniontech.com>  Fri, 11 Sep 2026 16:56:32 +0800
-
 libxklavier (5.4-4) unstable; urgency=medium
 
   * Update Vcs fields for migration to https://salsa.debian.org/
